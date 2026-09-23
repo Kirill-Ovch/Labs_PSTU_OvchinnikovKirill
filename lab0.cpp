@@ -2,8 +2,7 @@
 
 int main()
 {
-	std::count << "Hello" << std::endl;
+	std::cout << "Hello" << std::endl;
 	return 0;
 	
-	i = 5;
 }
